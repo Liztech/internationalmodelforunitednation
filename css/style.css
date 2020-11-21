@@ -52,3 +52,58 @@ header li {
   -o-background-size: cover;
   background-size: cover;
 }
+
+.showcase-banner {
+  padding: 200px;
+}
+
+.container h1,
+p {
+  color: #ffffff;
+  text-align: left;
+  font-size: 16px;
+  line-height: 23px;
+}
+
+.container h1 {
+  line-height: 34px;
+  font-size: 30px;
+}
+
+.container p {
+  line-height: 34px;
+  font-size: 16px;
+  display: block;
+}
+
+.button_1 {
+  background: #dc8f1a;
+  border: inherit;
+  cursor: pointer;
+  border-radius: 20px;
+  float: left;
+  color: #15477a;
+  font-size: 16px;
+  font-weight: bold;
+  letter-spacing: 0.9px;
+}
+
+.button_2 {
+  cursor: pointer;
+  border-radius: 20px;
+  margin-left: 20px;
+  font-weight: bold;
+  background: #00800000;
+  color: #ffffff;
+  letter-spacing: 0.9px;
+  border: 1px solid;
+}
+
+.social {
+  color: #ffffff;
+  letter-spacing: 0.8px;
+}
+
+.social img {
+  padding: 16px 16px;
+}
