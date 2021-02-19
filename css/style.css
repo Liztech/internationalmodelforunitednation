@@ -8,6 +8,7 @@ body {
   width: 100%;
   margin: auto;
   overflow: hidden;
+  background: #17233785;
 }
 
 #branding img {
@@ -102,8 +103,10 @@ p {
 .social {
   color: #ffffff;
   letter-spacing: 0.8px;
+  margin-top: 10px;
 }
 
 .social img {
-  padding: 16px 16px;
+  width: 32px;
+  height: 32px;
 }
